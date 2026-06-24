@@ -1,1 +1,1 @@
-# Python-alearning-Journey
+# Python-learning-Journey
